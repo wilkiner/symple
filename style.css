@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+ h1,h2, p{
+     margin: 0px;
+
+ }
+ .conteiner{
+     max-width: 1200px;
+     margin: 0 auto;
+     padding: 20px;
+ }
+ .conteiner h1{
+     font-size: 40px;
+     line-height: 50px;
+     font-weight: 300;
+     color: #06f;
+     margin-bottom: 40px;
+     text-align: center;
+ }
+ .seguros{
+     display: flex;
+     gap: 60px;
+     background: #6986;
+     border-radius: 5px;
+     padding: 10px;
+ }
+ .seguros h2{
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: 300;
+    text-align:  center;
+ }
+ .seguros p{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    text-align: center;
+ }
+ .btn{
+     text-decoration: none;
+     background: #06f;
+     border-radius: 5px;
+     padding: 8px 16px;
+     color: #fff;
+     font-size: 20px;
+     line-height: 30px;
+     display: inline-block;
+    
+ }
